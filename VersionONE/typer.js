@@ -58,6 +58,8 @@ const e_btn = document.getElementById("e_btn");
 
 //add if statements later to see which attribute of each e, m or h they selected 
 //and displaying the given text level (E, M, H)
+
+//Actually selecting the right diffculty of the file.
 let file_txt;
 let randomNum;
 let content_file;
